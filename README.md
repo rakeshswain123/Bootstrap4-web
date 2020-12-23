@@ -15,7 +15,7 @@ To get the Node server running locally:
 ![](ss/Screenshot4.png)
 
 # Dependencies 
-- [gruntjs](https://gruntjs.com/) - Javascript Task Runner
+- [gruntjs](https://gruntjs.com/) - Javascript Task Runner - The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [gulpjs](https://gulpjs.com/) - Javascript Task Runner
 - [sass](https://sass-lang.com/) - CSS extension language
 - [less](http://lesscss.org/) - CSS extension language
